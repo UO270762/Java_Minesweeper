@@ -23,5 +23,5 @@ de la partida.
 
 <p align="center">
 -Especifiaciones técnicas-
-Desarrolado en Java 16.0.2 y testeado con la libreria de testing JUnit 4
+Desarrollado en Java 16.0.2 y testeado con la libreria de testing JUnit 4
 </p>
