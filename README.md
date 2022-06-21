@@ -1,6 +1,5 @@
-<p align="center">
-<h1>-Buscaminas en java-</h1>
-</p>
+<h1 align="center">-Buscaminas en java-</h1>
+
 
 <p align="center">
 Descripcion
